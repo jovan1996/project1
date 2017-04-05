@@ -1,0 +1,46 @@
+<rss version="2.0" encoding="UTF-8">
+<channel>
+<item>
+<title>POČETNA</title>
+<author>Jovan Somborski</author>
+<description>Ovo je početna stranica</description>
+<link>
+http://www.sajtovistudenata.ict.edu.rs/63_15/index.html
+</link>
+</item>
+<item>
+<title>GALERIJA</title>
+<author>Jovan Somborski</author>
+<description>Ovde možete pogledati fotografije</description>
+<link>
+http://www.sajtovistudenata.ict.edu.rs/63_15/galerija.html
+</link>
+</item>
+<item>
+<title>KOFEIN</title>
+<author>Jovan Somborski</author>
+<description>
+Ovde možete čitati o kofeinu
+</description>
+<link>
+http://www.sajtovistudenata.ict.edu.rs/63_15/kofein.html
+</link>
+</item>
+<item>
+<title>REGISTRACIJA</title>
+<author>Jovan Somborski</author>
+<description>Ovde se možete registrovati</description>
+<link>
+http://www.sajtovistudenata.ict.edu.rs/63_15/registracija.html
+</link>
+</item>
+<item>
+<title>AUTOR</title>
+<author>Jovan Somborski</author>
+<description>Ovde možete pročitati o meni</description>
+<link>
+http://www.sajtovistudenata.ict.edu.rs/63_15/autor.html
+</link>
+</item>
+</channel>
+</rss>
